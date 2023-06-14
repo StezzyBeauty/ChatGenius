@@ -2,7 +2,7 @@
 import requests
 
 url1 = "https://api.telegram.org/bot"
-url2 = "6169941166:AAEIEvAHAwYog2RbM17gxRayy-5EaxcgI0M"
+url2 = ""
 mainUrl = "{}{}/sendMessage".format(url1, url2)
 #res = requests.get(mainUrl)
 #resp = res.json()
